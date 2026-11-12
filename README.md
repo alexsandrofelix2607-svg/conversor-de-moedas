@@ -1,22 +1,60 @@
 # 💱 Conversor de Moedas
 
-Conversor de Moedas com HTML, CSS e JavaScript.
-Converte Real para Dólar, Euro, Libra e Bitcoin.
+![Preview do Projeto](./assets/conversor.png)
 
-## 🚀 Como usar
+### 🚀 Conversor de Moedas - Real para Dólar, Euro, Libra e Bitcoin
 
-1. Digite o valor em Real
-2. Escolha a moeda
-3. Clique em Converter
+Um conversor de moedas moderno, rápido e fácil de usar. Converta seu dinheiro em tempo real com um design limpo e responsivo.
 
-## 🛠️ Tecnologias
+**🔗 Ver Site:** https://github.com/alexsandrofelix2607-svg/conversor-de-moedas
 
-- HTML
-- CSS
-- JavaScript
+---
 
-## 🔗 Site
+## 📌 Sobre o Projeto
 
-https://alexsandrofelix2607-svg.github.io/conversor-de-moedas/
+O Conversor de Moedas foi criado do zero com HTML, CSS e JavaScript. O objetivo é simular um conversor real, com cotação, conversão instantânea e visual de aplicativo de banco.
 
-Feito por Alexsandro Felix
+Este projeto foi criado como parte do meu portfólio para demonstrar habilidades em desenvolvimento frontend e criação de interfaces modernas.
+
+## 🎯 Para que serve?
+
+Converter valores de Real para outras moedas de forma rápida:
+
+*   **💵 Dólar Americano (USD)** - A moeda mais usada no mundo
+*   **💶 Euro (EUR)** - Moeda oficial da Europa
+*   **💷 Libra Esterlina (GBP)** - Moeda do Reino Unido
+*   **₿ Bitcoin (BTC)** - A criptomoeda mais famosa do mundo
+
+## ⚡ Funcionalidades
+
+*   ✅ Conversão instantânea ao clicar no botão
+*   ✅ Troca de moeda com bandeira e nome
+*   ✅ Valor convertido formatado em R$, $, €, £ e ₿
+*   ✅ Layout responsivo - funciona no celular e no computador
+*   ✅ Design moderno com gradiente roxo e efeito de vidro
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Uso no Projeto |
+| :--- | :--- |
+| **HTML5** | Estrutura semântica do site. Formulário, botões e resultado |
+| **CSS3** | Tema moderno, design responsivo, Flexbox, animações e identidade visual |
+| **JAVASCRIPT** | Lógica de conversão, troca de moedas, formatação dos valores e interatividade |
+
+**Foco:** 100% Frontend. Projeto para demonstrar domínio de HTML, CSS e JS puros, sem frameworks.
+
+## 📁 Estrutura de Pastas
+conversor-de-moedas/
+├── assets/
+│   ├── arrow.png
+│   ├── bitcoin.png
+│   ├── conversor.png
+│   ├── dolar.png
+│   ├── euro.png
+│   ├── libra.png
+│   ├── logo.png
+│   └── real.png
+├── index.html
+├── style.css
+├── scripts.js
+└── README.md
