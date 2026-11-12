@@ -37,9 +37,9 @@ Converter valores de Real para outras moedas de forma rápida:
 
 | Tecnologia | Uso no Projeto |
 | :--- | :--- |
-| **HTML5** | Estrutura semântica do site. Formulário, botões e resultado |
-| **CSS3** | Tema moderno, design responsivo, Flexbox, animações e identidade visual |
-| **JAVASCRIPT** | Lógica de conversão, troca de moedas, formatação dos valores e interatividade |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat) | Estrutura semântica do site. Formulário, botões e resultado |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat) | Tema moderno, design responsivo, Flexbox, animações e identidade visual |
+| ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat) | Lógica de conversão, troca de moedas, formatação dos valores e interatividade |
 
 **Foco:** 100% Frontend. Projeto para demonstrar domínio de HTML, CSS e JS puros, sem frameworks.
 
@@ -58,3 +58,15 @@ conversor-de-moedas/
 ├── style.css
 ├── scripts.js
 └── README.md
+
+## 👨‍💻 *Autor*
+
+*Alexsandro Felix*🔗 [Ver Site](https://github.com/alexsandrofelix2607-svg/conversor-de-moedas/)
+
+- GitHub: [@alexsandrofelix2607-svg](https://github.com/alexsandrofelix2607-svg/conversor-de-moedas/)
+
+## ⚡ Como executar
+
+1. *Clone o repositório*
+```bash
+git clone https://github.com/alexsandrofelix2607-svg/conversor-de-moedas
