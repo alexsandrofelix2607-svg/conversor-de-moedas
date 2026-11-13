@@ -1,14 +1,12 @@
 # 💱 Conversor de Moedas
 
+### 👉 [CLIQUE AQUI PARA ABRIR O CONVERSOR DE MOEDAS](https://alexsandrofelix2607-svg.github.io/conversor-de-moedas/)
 ![Preview do Projeto](./assets/conversor.png)
 
 ### 🚀 Conversor de Moedas - Real para Dólar, Euro, Libra e Bitcoin
 
-Um conversor de moedas moderno, rápido e fácil de usar. Converta seu dinheiro em tempo real com um design limpo e responsivo.
+Um conversor de moedas moderno, rápido e fácil de usar. Converta seu dinheiro de forma instantânea com um design limpo e responsivo.
 
-**🔗 Ver Site:** https://github.com/alexsandrofelix2607-svg/conversor-de-moedas
-
----
 
 ## 📌 Sobre o Projeto
 
@@ -61,9 +59,9 @@ conversor-de-moedas/
 
 ## 👨‍💻 *Autor*
 
-*Alexsandro Felix*🔗 [Ver Site](https://github.com/alexsandrofelix2607-svg/conversor-de-moedas/)
+*Alexsandro Felix*
 
-- GitHub: [@alexsandrofelix2607-svg](https://github.com/alexsandrofelix2607-svg/conversor-de-moedas/)
+- GitHub: [alexsandrofelix2607-svg](https://github.com/alexsandrofelix2607-svg)
 
 ## ⚡ Como executar
 
