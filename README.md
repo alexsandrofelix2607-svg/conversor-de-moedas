@@ -42,6 +42,7 @@ Converter valores de Real para outras moedas de forma rápida:
 **Foco:** 100% Frontend. Projeto para demonstrar domínio de HTML, CSS e JS puros, sem frameworks.
 
 ## 📁 Estrutura de Pastas
+```
 conversor-de-moedas/
 ├── assets/
 │   ├── arrow.png
@@ -56,7 +57,7 @@ conversor-de-moedas/
 ├── style.css
 ├── scripts.js
 └── README.md
-
+```
 ## 👨‍💻 *Autor*
 
 *Alexsandro Felix*
